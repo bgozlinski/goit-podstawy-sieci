@@ -70,12 +70,3 @@ This will start the web server accessible at `http://localhost:3000` and the UDP
 
 - HTML files can be modified directly. Static files like CSS or images should be placed in the `static` directory.
 - To update Python logic, modify `main.py` and restart the server.
-
-## License
-
-[Insert your choice of license here]
-
-## Contributors
-
-- [Your Name]
-
